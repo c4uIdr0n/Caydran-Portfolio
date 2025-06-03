@@ -14,8 +14,8 @@ const projectCategories = [
 const projects = {
   marine: [
     {
-      title: "Autonomous Underwater Vehicle",
-      description: "Designed and built a small-scale AUV for coastal exploration with sensors and wireless communication.",
+      title: "fuckeing ducmbass",
+      description: "firebase my ass",
       image: "https://images.unsplash.com/photo-1586252999747-b40a503d181d?q=80&w=2070&auto=format&fit=crop",
       link: "/projects/auv",
     },

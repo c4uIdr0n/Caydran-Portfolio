@@ -11,12 +11,12 @@ import {
 } from "lucide-react";
 
 const skillCategories = [
-  {
-    icon: Ship,
-    title: "Marine Engineering",
-    description: "Experience in designing systems and equipment for marine environments and vessels.",
-    skills: ["Naval Architecture", "Propulsion Systems", "Marine Mechanics", "Vessel Design", "Offshore Structures"]
-  },
+  // {
+  //   icon: Ship,
+  //   title: "Marine Engineering",
+  //   description: "Experience in designing systems and equipment for marine environments and vessels.",
+  //   skills: ["Naval Architecture", "Propulsion Systems", "Marine Mechanics", "Vessel Design", "Offshore Structures"]
+  // },
   {
     icon: Waves,
     title: "Ocean Dynamics",
